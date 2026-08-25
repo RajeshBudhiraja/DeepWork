@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-labelledby="title desc">
+  <title id="title">DeepWork setup screen preview</title>
+  <desc id="desc">A dark DeepWork setup screen with stats, an egg, duration choices, rules, and a start button.</desc>
+  <rect width="390" height="844" rx="28" fill="#040607"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+    <text x="28" y="48" fill="#E8ECEF" font-size="28" font-weight="700">DeepWork</text>
+    <text x="28" y="72" fill="#A1A5A7" font-size="13">Put the phone down. Don't touch it.</text>
+    <text x="278" y="45" fill="#7B98A2" font-size="12">History</text>
+    <text x="334" y="45" fill="#7B98A2" font-size="12">Collection</text>
+    <rect x="24" y="98" width="342" height="72" rx="16" fill="#141617"/>
+    <g fill="#E8ECEF" text-anchor="middle">
+      <text x="66" y="128" font-size="21" font-weight="600">0</text><text x="66" y="149" fill="#A1A5A7" font-size="11">DAY STREAK</text>
+      <text x="151" y="128" font-size="21" font-weight="600">0</text><text x="151" y="149" fill="#A1A5A7" font-size="11">TODAY</text>
+      <text x="246" y="128" font-size="21" font-weight="600">0s</text><text x="246" y="149" fill="#A1A5A7" font-size="11">TOTAL FOCUS</text>
+      <text x="326" y="128" font-size="21" font-weight="600">0/8</text><text x="326" y="149" fill="#A1A5A7" font-size="11">COLLECTED</text>
+    </g>
+    <text x="24" y="204" fill="#A1A5A7" font-size="11" font-weight="600" letter-spacing="1.4">YOUR EGG</text>
+    <rect x="24" y="218" width="342" height="118" rx="16" fill="#141617"/>
+    <circle cx="84" cy="277" r="39" fill="#25282A" stroke="#585F63" stroke-width="2"/>
+    <path d="M84 250c-14 0-24 14-24 29 0 17 10 26 24 26s24-9 24-26c0-15-10-29-24-29z" fill="#7B98A2" opacity=".38"/>
+    <path d="M84 256c-9 0-15 9-15 20 0 12 6 19 15 19s15-7 15-19c0-11-6-20-15-20z" fill="#E3E7E8" opacity=".78"/>
+    <text x="144" y="264" fill="#E8ECEF" font-size="18" font-weight="600">Your next hatch</text>
+    <text x="144" y="286" fill="#A1A5A7" font-size="13">Choose an egg to begin</text>
+    <text x="144" y="310" fill="#7B98A2" font-size="13">View collection  ›</text>
+    <text x="24" y="372" fill="#A1A5A7" font-size="11" font-weight="600" letter-spacing="1.4">HOW LONG</text>
+    <g font-size="15" text-anchor="middle">
+      <rect x="24" y="386" width="78" height="52" rx="12" fill="#203B4E"/><text x="63" y="418" fill="#E8ECEF">25 min</text>
+      <rect x="112" y="386" width="78" height="52" rx="12" fill="#25282A"/><text x="151" y="418" fill="#A1A5A7">50 min</text>
+      <rect x="200" y="386" width="78" height="52" rx="12" fill="#25282A"/><text x="239" y="418" fill="#A1A5A7">90 min</text>
+      <rect x="288" y="386" width="78" height="52" rx="12" fill="#25282A"/><text x="327" y="418" fill="#A1A5A7">Custom</text>
+    </g>
+    <text x="24" y="474" fill="#A1A5A7" font-size="11" font-weight="600" letter-spacing="1.4">THE COMMITMENT</text>
+    <rect x="24" y="488" width="342" height="124" rx="16" fill="#141617"/>
+    <text x="44" y="518" fill="#A1A5A7" font-size="12">The session ends if you</text>
+    <circle cx="48" cy="546" r="3" fill="#D49824"/><text x="60" y="550" fill="#E8ECEF" font-size="14">Switch to another app</text>
+    <circle cx="48" cy="575" r="3" fill="#D49824"/><text x="60" y="579" fill="#E8ECEF" font-size="14">Pick up or move the phone</text>
+    <rect x="24" y="642" width="342" height="58" rx="16" fill="#25617F"/>
+    <text x="195" y="678" fill="#E8ECEF" font-size="17" font-weight="600" text-anchor="middle">Start Deep Work</text>
+    <text x="195" y="760" fill="#585F63" font-size="11" text-anchor="middle">PREVIEW RENDER · DEEPWORK</text>
+  </g>
+</svg>

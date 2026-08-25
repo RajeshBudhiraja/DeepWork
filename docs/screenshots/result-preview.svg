@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-labelledby="title desc">
+  <title id="title">DeepWork completed session preview</title>
+  <desc id="desc">A completed DeepWork session showing a hatched creature, focused time, and a done button.</desc>
+  <rect width="390" height="844" rx="28" fill="#040607"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" text-anchor="middle">
+    <text x="195" y="76" fill="#67BB6B" font-size="12" font-weight="600" letter-spacing="1.8">SESSION COMPLETE</text>
+    <circle cx="195" cy="278" r="112" fill="#456176"/>
+    <circle cx="195" cy="278" r="112" fill="none" stroke="#788287" stroke-width="2"/>
+    <path d="M195 214c-34 0-57 35-57 69 0 43 23 65 57 65s57-22 57-65c0-34-23-69-57-69z" fill="#E3E7E8"/>
+    <path d="M175 252c8-13 19-20 31-20M169 287c14 11 37 11 52 0M178 319c10 7 24 7 34 0" fill="none" stroke="#75919B" stroke-width="6" stroke-linecap="round" opacity=".85"/>
+    <text x="195" y="458" fill="#E8ECEF" font-size="38" font-weight="600">50:00</text>
+    <text x="195" y="484" fill="#A1A5A7" font-size="12" font-weight="600" letter-spacing="1.5">FOCUSED</text>
+    <text x="195" y="548" fill="#E8ECEF" font-size="18" font-weight="600">A clean block of deep work.</text>
+    <text x="195" y="576" fill="#A1A5A7" font-size="14">Your time still counts toward the next hatch.</text>
+    <rect x="24" y="680" width="342" height="58" rx="16" fill="#25617F"/>
+    <text x="195" y="716" fill="#E8ECEF" font-size="17" font-weight="600">Done</text>
+    <text x="195" y="816" fill="#585F63" font-size="11">PREVIEW RENDER · DEEPWORK</text>
+  </g>
+</svg>

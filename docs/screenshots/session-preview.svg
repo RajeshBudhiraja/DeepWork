@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-labelledby="title desc">
+  <title id="title">DeepWork active session preview</title>
+  <desc id="desc">An active DeepWork session showing a countdown, progress ring, watching status, and a give up control.</desc>
+  <rect width="390" height="844" rx="28" fill="#040607"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+    <circle cx="195" cy="352" r="132" fill="none" stroke="#585F63" stroke-width="3" opacity=".65"/>
+    <circle cx="195" cy="352" r="132" fill="none" stroke="#25617F" stroke-width="3" stroke-linecap="round" stroke-dasharray="830" stroke-dashoffset="155" transform="rotate(-90 195 352)"/>
+    <text x="195" y="349" fill="#E8ECEF" font-size="66" font-weight="300" text-anchor="middle">49:32</text>
+    <text x="195" y="383" fill="#A1A5A7" font-size="12" font-weight="600" letter-spacing="1.7" text-anchor="middle">WATCHING</text>
+    <text x="195" y="526" fill="#A1A5A7" font-size="16" text-anchor="middle">Leave it where it is.</text>
+    <text x="195" y="788" fill="#7B98A2" font-size="14" text-anchor="middle">Give up</text>
+    <text x="195" y="816" fill="#585F63" font-size="11" text-anchor="middle">PREVIEW RENDER · DEEPWORK</text>
+  </g>
+</svg>
